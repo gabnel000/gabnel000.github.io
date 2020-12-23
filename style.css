@@ -1,0 +1,27 @@
+h1 {
+  font-weight: bold;
+}
+
+h5 {
+  font-weight: lighter;
+}
+#header {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 12px;
+}
+
+#showcase {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-left: 90px;
+}
+
+img {
+  opacity: 1;
+}
+
+img:hover{
+  opacity: .9;
+}
